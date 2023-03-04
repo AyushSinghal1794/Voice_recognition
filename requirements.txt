@@ -1,0 +1,4 @@
+speech_recognition==3.9.0
+pyttsx3
+json==2.0.9
+num2words
