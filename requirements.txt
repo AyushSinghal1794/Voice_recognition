@@ -1,2 +1,2 @@
-speech_recognition==3.9.0
+num2words
 streamlit==0.61.0
