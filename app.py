@@ -2,6 +2,7 @@ import speech_recognition as sr
 import pyttsx3
 import json
 import re
+import pyaudio
 from num2words import num2words
 import streamlit as st
 
