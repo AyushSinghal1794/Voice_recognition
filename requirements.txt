@@ -2,4 +2,3 @@ num2words
 streamlit==0.61.0
 SpeechRecognition
 pyttsx3==2.90
-pyaudio
